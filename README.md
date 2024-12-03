@@ -1,0 +1,2 @@
+# Optimizing-Oil-Well-Selection-Using-Predictive-Models-and-Risk-Analysis-for-OilyGiant
+Este proyecto desarrolla un modelo predictivo basado en regresión lineal para estimar el volumen de reservas en pozos petrolíferos y seleccionar los 200 pozos mas rentables. Utilizando técnicas como bootstrapping, se evalúan los beneficios y riesgos, permitiendo tomar decisiones estratégicas con un presupuesto total de **100 millones de dólares**.
